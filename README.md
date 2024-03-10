@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi, I'm Lyana!😄👋 
+### Aspiring Data Scientist/Analyst
 
-<!--
-**lyursula/lyursula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🔭 I'm am at the end off my Cogrammar/HyperionDev Data Science bootcamp.
+* 🌱 I’m currently expanding on data viz with Jupyter Notebook
+* :mortar_board: Studied BSc Economics and Management at Brunel University London
+* 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lyana-ursula-768186106/)
 
-Here are some ideas to get you started:
+### Certifications:
+* ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) - Data analyst with SQL server - currently working on :books:
+* ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) - SQL Bootcamp: Zero to hero :trophy:
+* New Skills Academy - Microsoft Excel Intermediate Certificate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
